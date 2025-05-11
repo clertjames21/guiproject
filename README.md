@@ -1,2 +1,2 @@
 # guiproject
-![image alt]([image_url](https://github.com/clertjames21/guiproject/blob/cbad19997d3a05129c843a562e72b4fba92bbbd1/Screenshot%202025-05-11%20132015.png))
+![image alt](https://github.com/clertjames21/guiproject/blob/c97e90170f67cf20879b7ae6b14ccc0640433528/Screenshot%202025-05-11%20132015.png)
