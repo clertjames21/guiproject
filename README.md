@@ -1,4 +1,13 @@
 # guiproject
+Program Purpose
+A Java Swing GUI application that lets users:
+
+Add diary entries
+View a specific entry by ID
+View all entries
+Exit the program
+//////
+
 package Solution;
 
 import javax.swing.*;
